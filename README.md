@@ -20,15 +20,12 @@
    <img alt="" src="https://img.shields.io/badge/SQL-yellow" />
    <img alt="" src="https://img.shields.io/badge/PS-teal" />
 </p>
+
 <p align="center">
-<img alt="" src="https://img.shields.io/github/stars/edyspider
-" />
-<img alt="" src="https://img.shields.io/github/followers/edyspider
-" />
-<img alt="" src="https://img.shields.io/github/issues-pr/edyspider/edyspider
-" />
-<img alt="" src="https://img.shields.io/github/issues/edyspider/edyspider
-" />
+   <img alt="" src="https://img.shields.io/github/stars/edyspider" />
+   <img alt="" src="https://img.shields.io/github/followers/edyspider" />
+   <img alt="" src="https://img.shields.io/github/issues-pr/edyspider/edyspider" />
+   <img alt="" src="https://img.shields.io/github/issues/edyspider/edyspider" />
 </p>
 
 <p align="center">
