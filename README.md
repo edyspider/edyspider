@@ -13,10 +13,22 @@
 ## 🏆 My Stats
 
 <p align="center">
-   <img src="https://img.shields.io/badge/language-al-blue?style"/>
-   <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/edyspider/github-readme-stats" />
-   <img alt="Issues" src="https://img.shields.io/github/issues/edyspider/github-readme-stats?color=0088ff" />
-   <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/edyspider/github-readme-stats?color=0088ff" />
+   <img src="https://img.shields.io/badge/Used Languages-:-gray"/>
+   <img alt="" src="https://img.shields.io/badge/CAL/AL-violet" />
+   <img alt="" src="https://img.shields.io/badge/Typescript-blue" />
+   <img alt="" src="https://img.shields.io/badge/PHP-purple" />
+   <img alt="" src="https://img.shields.io/badge/SQL-yellow" />
+   <img alt="" src="https://img.shields.io/badge/PS-teal" />
+</p>
+<p align="center">
+<img alt="" src="https://img.shields.io/github/stars/edyspider
+" />
+<img alt="" src="https://img.shields.io/github/followers/edyspider
+" />
+<img alt="" src="https://img.shields.io/github/issues-pr/edyspider/edyspider
+" />
+<img alt="" src="https://img.shields.io/github/issues/edyspider/edyspider
+" />
 </p>
 
 <p align="center">
