@@ -14,10 +14,11 @@
 
 <p align="center">
    <img src="https://img.shields.io/badge/Used Languages-:-gray"/>
+   <img alt="" src="https://img.shields.io/badge/Blade-orange" />   
    <img alt="" src="https://img.shields.io/badge/CAL/AL-violet" />
    <img alt="" src="https://img.shields.io/badge/Typescript-blue" />
    <img alt="" src="https://img.shields.io/badge/PHP-purple" />
-   <img alt="" src="https://img.shields.io/badge/SQL-yellow" />
+   <img alt="" src="https://img.shields.io/badge/JS-yellow" />
    <img alt="" src="https://img.shields.io/badge/PS-teal" />
 </p>
 
@@ -29,7 +30,7 @@
 </p>
 
 <p align="center">
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=edyspider&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=edyspider&rank_icon=github&count_private=true&theme=dark" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edyspider&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
