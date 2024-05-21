@@ -7,6 +7,7 @@
 [![devto](https://skillicons.dev/icons?i=devto)](https://dev.to/edyspider) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ederlealsilva/) &nbsp;
 [![vscode](https://skillicons.dev/icons?i=vscode)](https://marketplace.visualstudio.com/publishers/EdySpider) &nbsp;
+[![npm](https://skillicons.dev/icons?i=npm)](https://npmjs.com/~edyspider) &nbsp;
 
 </div>
 
